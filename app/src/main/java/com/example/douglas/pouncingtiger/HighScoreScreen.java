@@ -16,7 +16,6 @@ import GameHose.Vector2;
 /**
  * Created by user on 4/5/2017.
  */
-
 public class HighScoreScreen extends GLScreen {
     Camera2D guiCam;
     SpriteBatcher batcher;

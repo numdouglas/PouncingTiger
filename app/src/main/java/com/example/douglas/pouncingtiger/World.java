@@ -19,7 +19,7 @@ public class World {
         public void highJump();
         public void hit();
         public void coin();
-        public void crack();//keeps simulation classes clean from any direct dependencies on rendering and audio playback
+        public void crack();//keeps simulation classes clean from any direct dependencies on rendering and audio playbac
     }
     public static GLGame game;
   public static final float WORLD_WIDTH = 10;

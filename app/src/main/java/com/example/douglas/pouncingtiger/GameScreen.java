@@ -91,6 +91,12 @@ public class GameScreen extends GLScreen {
         }
     }
     private void updateReady() {
+if(Settings.soundEnabled==true){
+        Assets.music.setLooping(true);
+        Assets.music.setVolume(0.5f);
+
+        Assets.music.pause();
+        Assets.music.play();}
         if(game.getInput().getTouchEvents().size() > 0) {
             state = GAME_RUNNING;
         }
@@ -133,6 +139,8 @@ public class GameScreen extends GLScreen {
         }
     }
     private void updatePaused() {
+        if(Settings.soundEnabled==true){
+        Assets.music.pause();}
         List<TouchEvent> touchEvents = game.getInput().getTouchEvents();
         int len = touchEvents.size();
         for(int i = 0; i < len; i++) {
@@ -142,7 +150,9 @@ public class GameScreen extends GLScreen {
             touchPoint.set(event.x, event.y);
             guiCam.touchToWorld(touchPoint);
             if(OverlapTester.pointInRectangle(resumeBounds, touchPoint)) {
+
                 Assets.playSound(Assets.clickSound);
+                Assets.music.play();
                 state = GAME_RUNNING;
                 return;
             }
@@ -154,6 +164,7 @@ public class GameScreen extends GLScreen {
         }
     }
     private void updateLevelEnd() {
+
         List<TouchEvent> touchEvents = game.getInput().getTouchEvents();
         int len = touchEvents.size();
         for(int i = 0; i < len; i++) {

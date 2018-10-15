@@ -81,10 +81,6 @@ public class Assets {
                 new TextureRegion(items, 64, 208, 64, 16));
         font = new Font(items, 224, 0, 16, 16, 20);
         music = game.getAudio().newMusic("Music"+ GameScreen.countlevel+".ogg");
-        music.setLooping(true);
-        music.setVolume(0.5f);
-        if(Settings.soundEnabled)
-            music.play();
         jumpSound = game.getAudio().newSound("jum"+ SelectaPlayerScreen.quipa+".ogg");
         highJumpSound = game.getAudio().newSound("highjum"+ SelectaPlayerScreen.quipa+".ogg");
         hitSound = game.getAudio().newSound("hit.ogg");
