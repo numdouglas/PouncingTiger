@@ -2,11 +2,11 @@
 My first Game. Endless jumper with great music.
 Help Tiger Father cross the chasm and ascend.
 
-##How to install
+## How to install
 1. Download the APK attached in the link.
 2. Install the game from an android 4+ device.
 
-##How to play.
+## How to play.
 1. Turn the phone left or right to glide left or right.
 2. Use the platforms to progressively jump higher.
 3. Use springs to give that much needed extra push up.
