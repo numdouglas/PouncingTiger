@@ -11,4 +11,4 @@ Help Tiger Father cross the chasm and ascend.
 2. Use the platforms to progressively jump higher.
 3. Use springs to give that much needed extra push up.
 4. Glide away from anything that moves, a touch could tip off your balance!
-    Adding to point 4 above use some cheats such as warping off the left right ends of this universe by gliding off them...It's a little complicated you have to play this to see it.:)
+<br />Adding to point 4 above use some cheats such as warping off the left right ends of this universe by gliding off them...It's a little complicated you have to play this to see it.:)
