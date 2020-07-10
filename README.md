@@ -4,7 +4,7 @@ Help Tiger Father cross the chasm and ascend.
 
 ## How to install
 1. Download the APK attached in the link.
-2. Install the game from an android 4+ device.
+2. Install the game from an android 2+ device.
 
 ## How to play.
 1. Turn the phone left or right to glide left or right.
