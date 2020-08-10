@@ -12,7 +12,7 @@ Unlock new players, play as batman, flash e.t.c and compete with friends in brea
 1. Turn the phone left or right to glide left or right.
 2. Use the platforms to progressively jump higher.
 3. Use springs to give that much needed extra push up.
-4. Glide away from anything that moves, a touch could tip off your balance!
+4. Glide away from anything that moves, a touch could tip your balance!
 <br /><br />Adding to point 4 above, use some "cheats" such as warping off the left right ends of this universe by gliding off them...It's a little complicated you have to play this to see it.:)
 
 <img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-07-23-37.png" width="300" height="400">
