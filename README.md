@@ -15,6 +15,6 @@ Unlock new players, play as batman, flash e.t.c and compete with friends in brea
 4. Glide away from anything that moves, a touch could tip your balance!
 <br /><br />Adding to point 4 above, use some "cheats" such as warping off the left right ends of this universe by gliding off them...It's a little complicated you have to play this to see it.:)
 
-<div><table  border="1" style="float:left"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-07-23-37.png" width="300" height="400"></td></tr></table>
-<table  border="1" style="float:left"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-03-44-55-79.png" width="300" height="400"></td></tr></table>
+<div><table  border="1" style="float: left"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-07-23-37.png" width="300" height="400"></td></tr></table>
+<table  border="1" style="float: left"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-03-44-55-79.png" width="300" height="400"></td></tr></table>
 </div>
