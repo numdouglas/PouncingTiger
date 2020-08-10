@@ -16,6 +16,6 @@ Unlock new players, play as batman, flash e.t.c and compete with friends in brea
 <br /><br />Adding to point 4 above, use some "cheats" such as warping off the left right ends of this universe by gliding off them...It's a little complicated you have to play this to see it.:)
 
 <div style="float: left;" >
-<table  border="1" ><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-07-23-37.png" width="300" height="400"></td></tr></table>
-<table  border="1" style="display: inline-block;"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-03-44-55-79.png" width="300" height="400"></td></tr></table>
+<table  border="1" ><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-07-23-37.png" width="200" height="400"></td></tr></table>
+<table  border="1" style="display: inline-block;"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-03-44-55-79.png" width="200" height="400"></td></tr></table>
 </div>
