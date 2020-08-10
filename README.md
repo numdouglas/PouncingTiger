@@ -18,3 +18,4 @@ Unlock new players, play as batman, flash e.t.c and compete with friends in brea
 <table  border="1"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-07-23-37.png" width="350" height="400"></td></tr></table><table  border="1"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-03-44-55-79.png" width="350" height="400"></td></tr></table>
 <table  border="1" style="float: left;"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-04-41-31-96.png" width="350" height="400"></td></tr></table>
 <table  border="1" style="float: left;"><tr><td><img style="border:5px solid black;" src="/Screenshot_2020-08-10-18-52-32-18.png" width="350" height="400"></td></tr></table>
+<br/><br/><br/><br/>
