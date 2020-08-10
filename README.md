@@ -15,3 +15,7 @@ Help Tiger Father cross the chasm and ascend.
 <br /><br />Adding to point 4 above, use some "cheats" such as warping off the left right ends of this universe by gliding off them...It's a little complicated you have to play this to see it.:)
 
 <img src="/Screenshot_2020-08-10-04-07-23-37.png" width="300" height="400">
+
+
+
+<img src="/Screenshot_2020-08-10-03-44-55-79.png" width="300" height="400">
