@@ -1,5 +1,6 @@
 # PouncingTiger
 My first Game. Endless jumper with great music.
+Made in openGl.
 Help Tiger Father cross the chasm and ascend.
 Unlock new players, play as batman, flash e.t.c and compete with friends in breaking highscores.
 
